@@ -10,6 +10,15 @@ public class Main {
 		int a = 12;
 		
 		// Primeros pasos
+		
+		if(x==23) {
+			
+			System.out.print(x);
+		}
+		
+		else {
+			System.out.println("No funciona");
+		}
 
 	}
 
