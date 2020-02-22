@@ -19,6 +19,11 @@ public class Main {
 		else {
 			System.out.println("No funciona");
 		}
+		
+		for(int i=1; i<x;i++) {
+			System.out.print(i);
+			
+		}
 
 	}
 
